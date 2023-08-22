@@ -12,3 +12,7 @@ public class Soma {
         scanner.close();
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> release/v1.0.0
